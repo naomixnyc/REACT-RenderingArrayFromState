@@ -1,0 +1,49 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+  margin: 0;
+  padding: 2rem;
+}
+
+.app-title {
+  text-align: center;
+  color: #888;
+  margin-bottom: 2rem;
+}
+
+.learner-card {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  padding: 1.5rem;
+  border-radius: 8px;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.learner-name {
+  margin-top: 0;
+  color: #4187ce;
+}
+
+.learner-bio {
+  font-size: 0.95rem;
+  color: #555;
+  text-align: left;
+}
+
+.learner-scores {
+  margin-top: 1rem;
+}
+
+.score-entry {
+  margin-left: 1rem;
+  color: #444;
+}
